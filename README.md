@@ -10,4 +10,3 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=7xmzza&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=7xmzza&icon=0&color=0)](https://visitcount.itsvg.in)
