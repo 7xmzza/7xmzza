@@ -1,14 +1,16 @@
 <div align="center">
 
-# 💫 About Me
+# 💫 Hey, I'm Hamza :)
 
 </div>
 
-🎱 Hello, I'm Hamza, a high school senior learning CS and computer engineering through hands-on learning and development.
+🎓 High school senior passionate about **computer science, AI, cybersecurity, and operating systems**.
 
-🎱 I'm currently learning by building my **[Face Recognition System](https://github.com/7xmzza/face-recognition)**.
+🛠️ Learning through building real-world projects, currently a **[Face Recognition System](https://github.com/7xmzza/face-recognition)**.
 
-🎱 I'm **exploring neural networks** and **sharpening my skills through real-world projects**.
+🧠 Exploring CS one project at a time.
+
+🎱 Currently **exploring neural networks** and **sharpening my skills**.
 
 ---
 
